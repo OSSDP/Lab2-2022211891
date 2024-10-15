@@ -84,3 +84,4 @@ class L2022211891_8_Test {
         assertEquals(expected, solution.numIslands(grid));
     }
 }
+// 测试用例考虑的很周全
